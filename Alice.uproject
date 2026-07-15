@@ -20,6 +20,11 @@
 			"Enabled": true
 		},
 		{
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
+		},
+		{
+			"Name": "SkeletalMerging",
 			"Name": "Water",
 			"Enabled": true
 		},
